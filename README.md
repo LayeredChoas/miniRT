@@ -25,9 +25,9 @@ make
 ./miniRT [scene_path]
 ```
 ## Options
-Zoom
-Rotate
-Move Objects
+Zoom, 
+Rotate,
+Move, Objects
 
 ## Credits :
 
