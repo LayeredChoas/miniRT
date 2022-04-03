@@ -25,7 +25,10 @@ make
 ./miniRT [scene_path]
 ```
 ## Options
+Zoom
+Rotate
+Move Objects
 
 ## Credits :
 
-* Done with [@hguerni](https://github.com/hguerni)
+* Done with [@LayeredChoas](https://github.com/LayeredChoas)
